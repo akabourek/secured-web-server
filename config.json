@@ -1,0 +1,16 @@
+{
+  "port": 3000,
+  "secret": "402bf703-c7b8-48cf-8195-783c1fecdbe3",
+  "public": [
+    {
+      "uri": "/",
+      "static": "./public"
+    }
+  ],
+  "protected": [
+    {
+      "uri": "/doc",
+      "static": "./protected"
+    }
+  ]
+}
