@@ -1,5 +1,5 @@
 {
-  "realm": "ketnet",
-  "resource": "iworks-ng",
-  "auth-server-url": "https://sso.ceznet.cz"
+  "realm": "<my-realm>",
+  "resource": "<my-client-id>",
+  "auth-server-url": "<my-auth-server-url>"
 }
